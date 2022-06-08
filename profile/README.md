@@ -1,4 +1,4 @@
-## Hi there, We are LinuxEuphony 👋
+## Hi there 👋, We are LinuxEuphony from Liniantt LLC
 
 
 🙋‍♀️ We are all about linux.
