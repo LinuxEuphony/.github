@@ -3,4 +3,4 @@
 
 🙋‍♀️ We are all about linux.
 
-🌈 Contribution guidelines - Anyone can mail us to contribute on any linux projects?
+🌈 Contribution guidelines - Anyone can mail us to contribute on any linux projects.
